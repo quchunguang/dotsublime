@@ -35,7 +35,7 @@ Step 4. Install some useful packages via package control for ST3.
 Run ST3, press ctrl+shift+p to show command window. input 'ip' (which means install package) and return.
 Following are my favorites,
 
-* AutoPEP8 - If you love python, whatever a pythoneer or a pythonista, make your code pretty by ctrl-shift-8. God bless you if you are writing python code on Linux( but NOT on mac)!
+* AutoPEP8 - If you love python, whatever a pythoneer or a pythonista, make your code pretty by ctrl-shift-8. God bless you if you are writing python code on Linux, but NOT on a macnix or something from m$. :)
 * Clickable URLs - As its name.
 * Generate Password - As its name.
 * GenerateUUID - As its name.
