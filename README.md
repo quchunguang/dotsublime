@@ -1,10 +1,10 @@
-About
-=====
+DotSublime
+==========
 
 DotSublime is aimed to quick deploy sublime text 3(ST3) settings when newly installed ST3.
 
 Installation
-============
+------------
 
 Step 1. Download and install ST3 in your way. (ubuntu for example)
 
